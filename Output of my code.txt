@@ -1,0 +1,10 @@
+class1: PradnyaDhala8AngieHam7PeteRose13CesarRuiz6PiqiTangi7BillVollmann13
+Class2: HankAaron3PeteRose13CesarRuiz6PiqiTangi7JohnZorn4
+class1 and 2 Merged: HankAaron3PradnyaDhala8AngieHam7PeteRose13CesarRuiz6PiqiTangi7BillVollmann13JohnZorn4
+Removed from class1, student AngieHam7
+class1: HankAaron3PradnyaDhala8PeteRose13BillVollmann13JohnZorn4
+soccer: MilesDavis65PeteRose13CesarRuiz6
+soccer += class1 : HankAaron3MilesDavis65PradnyaDhala8PeteRose13CesarRuiz6BillVollmann13JohnZorn4
+football: HankAaron3MilesDavis65PradnyaDhala8PeteRose13CesarRuiz6BillVollmann13JohnZorn4
+PeteRose13 is on the football team
+These are the numbers: -1113
